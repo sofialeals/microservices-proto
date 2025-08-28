@@ -2,7 +2,7 @@
 GITHUB_USERNAME=sofialeals
 GITHUB_EMAIL=sofialealoliveira@gmail.com
 
-SERVICE_NAME=payment
+SERVICE_NAME=shipping
 RELEASE_VERSION=v1.2.3
 
 go install google.golang.org/protobuf/cmd/protoc-gen-go@latest 
